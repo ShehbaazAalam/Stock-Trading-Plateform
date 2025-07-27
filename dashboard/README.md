@@ -6,6 +6,7 @@ A full-stack MERN (MongoDB, Express.js, React, Node.js) application that simulat
 [https://github.com/ShehbaazAalam/Stock-Trading-Plateform](https://github.com/ShehbaazAalam/Stock-Trading-Plateform)
 
 ---
+
 ## 📁 Project Structure
 
 - **backend/** – Node.js + Express server connected to MongoDB  
@@ -57,14 +58,23 @@ npm start
 cd ../dashboard
 npm install
 npm start
+📬 API Endpoints
 GET /allHoldings – Get all user holdings
 
 POST /addHoldings – Add new holding (name, qty, avg, price)
 
+🖼️ Screenshots
+Add your screenshots to frontend/public/screenshots/ and link here:
+
+md
+Copy
+Edit
+![Holdings View](./frontend/public/screenshots/holdings.png)
 👨‍💻 Author
 Shehbaaz Aalam
 🔗 GitHub: github.com/ShehbaazAalam
-📧 Email: shehbaazaalam001@gmail.com
+📧 Email: shehbaazaalam00786@gmail.com
 
+📄 License
 This project is open source and free to use under the MIT License.
-Feel free to modify or contribute.
+Feel free to fork, modify, or contribute.
