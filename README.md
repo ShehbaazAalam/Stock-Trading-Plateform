@@ -63,10 +63,6 @@ GET /allHoldings – Get all user holdings
 
 POST /addHoldings – Add new holding (name, qty, avg, price)
 
-md
-Copy
-Edit
-![Holdings View](./frontend/public/screenshots/holdings.png)
 👨‍💻 Author
 Shehbaaz Aalam
 🔗 GitHub: github.com/ShehbaazAalam
