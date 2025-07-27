@@ -70,7 +70,7 @@ Edit
 👨‍💻 Author
 Shehbaaz Aalam
 🔗 GitHub: github.com/ShehbaazAalam
-📧 Email: shehbaazaalam001@gmail.com
+📧 Email: shehbaazaalam00786@gmail.com
 
 📄 License
 This project is open source and free to use under the MIT License.
