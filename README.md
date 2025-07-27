@@ -63,9 +63,6 @@ GET /allHoldings – Get all user holdings
 
 POST /addHoldings – Add new holding (name, qty, avg, price)
 
-🖼️ Screenshots
-Add your screenshots to frontend/public/screenshots/ and link here:
-
 md
 Copy
 Edit
